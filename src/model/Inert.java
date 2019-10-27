@@ -13,7 +13,7 @@ public class Inert extends Residue {
 	public String getAdviceToReduce() {
 		return adviceToReduce;
 	}
-
+ 
 
 	@Override
 	public String toString() {
